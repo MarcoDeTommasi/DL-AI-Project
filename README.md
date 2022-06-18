@@ -1,2 +1,2 @@
-# DL-AI-Project
+# Group equivariant convolutional networks
 In this report are described the principal properties of the Group Equivariant Convolutional Networks (G-CNNs). These networks, has been introduced recently and there are a lot of possible applications that involves different topics like physics, biology and image classification in general. For some discrete groups, the implementation of this networks is straightforward, so their performaces can be easly compared with the standard architectures. In the following are implemented two examples of G-CNNs, for the p4 and p4m groups and tested on the rotated Minist, Cifar10 and Cifar10+ datasets. In the last section, are presented some of the latest possible implementations and some new possible generalizations.
